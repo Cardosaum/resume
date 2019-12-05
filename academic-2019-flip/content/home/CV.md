@@ -15,7 +15,8 @@ weight = 2
 cv_pdf = "./files/Tanedo.pdf"
 
 # Group Logo
-group_logo = "logo/UCRHEP_03.png"
+# TODO:
+# group_logo = "logo/cv_dna.png"
 
 
 # List your academic interests.
@@ -75,7 +76,7 @@ group_logo = "logo/UCRHEP_03.png"
 
 **Flip Tanedo** is an assistant professor of theoretical physics at the University of California, Riverside. His research seeks to discover how dark matter fits into our fundamental understanding of nature.
 
-* UCI Chancellor's Advance Postdoctoral Fellow, 2014 - 2015  
-* Paul & Daisy Soros Fellowship, 2010 - 2012  
-* NSF Graduate Research Fellow, 2006 - 2011  
+* UCI Chancellor's Advance Postdoctoral Fellow, 2014 - 2015
+* Paul & Daisy Soros Fellowship, 2010 - 2012
+* NSF Graduate Research Fellow, 2006 - 2011
 * Marshall Scholarship, 2006 - 2008

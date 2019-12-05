@@ -1,7 +1,7 @@
 +++
 # Contact widget.
 widget = "contact"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 
 title = "Contact"
@@ -15,4 +15,4 @@ autolink = true
 
 +++
 
-{{% googlecalendar iq4oas3v22k3j62f2ci331hqd4 %}}
+<!-- {{% googlecalendar iq4oas3v22k3j62f2ci331hqd4 %}} -->

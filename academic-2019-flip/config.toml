@@ -1,7 +1,7 @@
 publishDir = "../www2019/flip" # relative to project root
-baseurl = "https://theory.ucr.edu/flip/"
-title = "Flip Tanedo "
-copyright = "&copy; 2018 Philip (Flip) Tanedo<br/>Hosted on [GitHub](https://github.com/fliptanedo/theory.ucr.edu), Served by [Netlify](https://ucrtheory.netlify.com)."
+baseurl = "/"
+title = "Matheus"
+copyright = "&copy; 2019 Matheus Cardoso<br/>Hosted on [GitHub](https://github.com/cardosaum)."
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -26,25 +26,25 @@ enableGitInfo = false
   extensions = ["backslashLineBreak"]
 
 [params]
-  color_theme = "fliptheme"
+  color_theme = "matheus_theme"
   font = "flipfont"
 
   # Your details.
-  name = "Flip Tanedo"
-  role = "Assistant Professor"
-  organizations = [ { name = "UCR Particle Theory", url = "http://theory.ucr.edu" } ]
+  name = "Matheus Cardoso"
+  role = "Biotechnology Student"
+  # TODO: organizations = [ { name = "UCR Particle Theory", url = "http://theory.ucr.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "profile/Flip600_sq.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profile/foto_perfil_matheus_bsb.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   # email = "flip@example.org"
-  email1 = "flip.tanedo" # using cryptedmail
-  email2 = "ucr" # using cryptedmail
-  email3 = "edu" # using cryptedmail
-  address = "3054 Physics Building, University of California, Riverside, CA 92521, USA"
-  office_hours = "Email for appointment"
-  phone = "x26168"
+  email1 = "190018062" # using cryptedmail
+  email2 = "aluno.unb" # using cryptedmail
+  email3 = "br" # using cryptedmail
+  # # TODO: address = "3054 Physics Building, University of California, Riverside, CA 92521, USA"
+  # TODO: office_hours = "Email for appointment"
+  # phone = "(+55) 61 982645973"
   # skype = "echo123"
-  # telegram = ""
+  telegram = "Cardosaum"
   keybase = ""
 
   # Diplay a logo in navigation bar rather than title (optional).
@@ -74,11 +74,11 @@ enableGitInfo = false
 
   # FOOTER PARAMETERS
   footmark = "layout/feynmanfooter.png"
-  stacklogo = "logo/UCRPAlogo.png"
+  stacklogo = "logo/unb.png"
   legalblurb = "All opinions expressed here are my own and do not necessarily represent those of any other agencies or groups."
 
   # HEADER PARAMETERS
-  watermark = "background/Bundle3.jpg"
+  watermark = "background/dna.jpeg"
 
 
   # Social/Academic Networking
@@ -104,59 +104,78 @@ enableGitInfo = false
   #   icon_pack = "fas"
   #   link = "mailto:flip.tanedo@ucr.edu"
 
-  [[params.social]]
-    icon = "inspire"
-    icon_pack = "ai"
-    link = "http://inspirehep.net/author/profile/P.Tanedo.1"
-    cv = true
+  # TODO:
+  # [[params.social]]
+  #   icon = "inspire"
+  #   icon_pack = "ai"
+  #   link = "http://inspirehep.net/author/profile/P.Tanedo.1"
+  #   cv = true
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?hl=en&user=BQuJtTIAAAAJ&view_op=list_works&sortby=pubdate"
-    cv = true
+  # [[params.social]]
+  #   icon = "google-scholar"
+  #   icon_pack = "ai"
+  #   link = "https://scholar.google.com/citations?hl=en&user=BQuJtTIAAAAJ&view_op=list_works&sortby=pubdate"
+  #   cv = true
 
-  [[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "http://orcid.org/0000-0003-4642-2199"
-    cv = true
+  # [[params.social]]
+  #   icon = "orcid"
+  #   icon_pack = "ai"
+  #   link = "http://orcid.org/0000-0003-4642-2199"
+  #   cv = true
+
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "//github.com/fliptanedo"
+    link = "http://github.com/Cardosaum"
     cv = true
 
   [[params.social]]
-    icon = "arxiv"
-    icon_pack = "ai"
-    link = "https://arxiv.org/find/hep-ph/1/au:+Tanedo_P/0/1/0/all/0/1"
-    cv = true
-
-  [[params.social]]
-    icon = "twitter"
+    icon = "stack-overflow"
     icon_pack = "fab"
-    link = "//twitter.com/FlipTanedo"
-    cv = false
-
-  [[params.social]]
-    icon = "publons"
-    icon_pack = "ai"
-    link = "https://publons.com/author/637273/philip-tanedo#profile"
+    link = "https://stackoverflow.com/users/10719703/matheus-c?tab=profile"
     cv = true
 
   [[params.social]]
-    icon = "slideshare"
-    icon_pack = "fab"
-    link = "https://www.slideshare.net/fliptanedo"
-    cv = false
-
-  [[params.social]]
-    icon = "tree"
+    icon = "envelope"
     icon_pack = "fas"
-    link = "https://academictree.org/physics/tree.php?pid=715850"
-    cv = false
+    link = "mailto:190018062@aluno.unb.br"
+
+  [[params.social]]
+    icon = "telegram"
+    icon_pack = "fab"
+    link = "Cardosaum"
+    cv = true
+
+  # [[params.social]]
+  #   icon = "arxiv"
+  #   icon_pack = "ai"
+  #   link = "https://arxiv.org/find/hep-ph/1/au:+Tanedo_P/0/1/0/all/0/1"
+  #   cv = true
+
+  # [[params.social]]
+  #   icon = "twitter"
+  #   icon_pack = "fab"
+  #   link = "//twitter.com/FlipTanedo"
+  #   cv = false
+
+  # [[params.social]]
+  #   icon = "publons"
+  #   icon_pack = "ai"
+  #   link = "https://publons.com/author/637273/philip-tanedo#profile"
+  #   cv = true
+
+  # [[params.social]]
+  #   icon = "slideshare"
+  #   icon_pack = "fab"
+  #   link = "https://www.slideshare.net/fliptanedo"
+  #   cv = false
+
+  # [[params.social]]
+  #   icon = "tree"
+  #   icon_pack = "fas"
+  #   link = "https://academictree.org/physics/tree.php?pid=715850"
+  #   cv = false
 
   [[params.social]]
     icon = "cv"
@@ -197,15 +216,16 @@ enableGitInfo = false
   url = "#engagement"
   weight = 5
 
-[[menu.main]]
-  name = "Team"
-  url = "#students"
-  weight = 6
+  # TODO:
+# [[menu.main]]
+#   name = "Team"
+#   url = "#students"
+#   weight = 6
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 7
+# [[menu.main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 7
 
 # Search.
 [params.search]

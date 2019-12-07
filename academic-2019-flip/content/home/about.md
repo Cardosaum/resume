@@ -10,34 +10,42 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Dark Matter",
-    "New Physics",
-    "Equity in Physics"
+    "Bioinformatics",
+    "Computational Biology",
+    "Data Science",
+    "Molecular Biology",
+    "Synthetic Biology",
+    "Omics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD, MS in Physics"
-  institution = "Cornell University"
-  year = 2013
+  course = "BS in Biotechnology"
+  institution = "University of Brasília"
+  year = "2019 - Present"
 
-[[education.courses]]
-  course = "MS in Physics"
-  institution = "Durham University/IPPP"
-  year = 2009
+# [[education.courses]]
+#   course = "PhD, MS in Physics"
+#   institution = "Cornell University"
+#   year = 2013
 
-[[education.courses]]
-  course = "MAst in Applied Mathematics"
-  institution = "Cambridge University/DAMTP"
-  year = 2007
+# [[education.courses]]
+#   course = "MS in Physics"
+#   institution = "Durham University/IPPP"
+#   year = 2009
 
-[[education.courses]]
-  course = "BS in Physics and Mathematics"
-  institution = "Stanford University"
-  year = 2006
+# [[education.courses]]
+#   course = "MAst in Applied Mathematics"
+#   institution = "Cambridge University/DAMTP"
+#   year = 2007
+
+# [[education.courses]]
+#   course = "BS in Physics and Mathematics"
+#   institution = "Stanford University"
+#   year = 2006
 
 +++
 
-**Flip Tanedo spends a lot of time thinking about dark matter.**
+**Matheus Cardoso spends a lot of time thinking about dark matter.**
 
 He grew up in Los Angeles and fell in love with physics after reading *The Physics of Star Trek*. This carried into degrees in mathematics and physics at Stanford, Cambridge, Durham, and a Ph.D at Cornell. After a postdoc at UC Irvine, he is currently faculty at UC Riverside where he is known for being covered in chalk dust after a long day's work.

@@ -206,15 +206,16 @@ enableGitInfo = false
   url = "#research"
   weight = 3
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 4
+  # TODO:
+# [[menu.main]]
+#   name = "Teaching"
+#   url = "#teaching"
+#   weight = 4
 
-[[menu.main]]
-  name = "Public"
-  url = "#engagement"
-  weight = 5
+# [[menu.main]]
+#   name = "Public"
+#   url = "#engagement"
+#   weight = 5
 
   # TODO:
 # [[menu.main]]

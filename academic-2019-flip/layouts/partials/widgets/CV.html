@@ -71,7 +71,8 @@
       <p style="font-size: .8rem;">
         <b>Service</b>:
         {{ range .service }}
-        {{ . | markdownify }} ,
+        {{ . | markdownify }}
+        <!-- {{ . | markdownify }} , # TODO: above line was modified using this as template-->
         {{ end }}
       </p>
     {{ end }}

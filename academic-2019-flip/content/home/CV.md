@@ -22,61 +22,58 @@ cv_pdf = "./files/Tanedo.pdf"
 # List your academic interests.
 [interests]
   interests = [
-    "Dark Matter",
-    "Composite Higgs",
-    "Supersymmetry",
-    "Particle Astro/Cosmo"
+    "Bioinformatics",
+    "Computational Biology",
+    "Data Science",
+    "Molecular Biology",
+    "Synthetic Biology"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Physics"
-  course_short = "PhD"
-  institution = "Cornell University"
-  institution_short = "Cornell"
-  year = 2013
-  logo = "/logo/icon_Co.png"
+# [[education.courses]]
+#   course = "PhD in Physics"
+#   course_short = "PhD"
+#   institution = "Cornell University"
+#   institution_short = "Cornell"
+#   year = 2013
+#   logo = "/logo/icon_Co.png"
+
+# [[education.courses]]
+#   course = "MSc in Physics"
+#   course_short = "MSc"
+#   institution = "Durham University / IPPP"
+#   institution_short = "Durham/IPPP"
+#   year = 2008
+#   logo = "/logo/icon_D.png"
+
+# [[education.courses]]
+#   course = "MASt in Mathematics"
+#   course_short = "MASt"
+#   institution = "Cambridge University"
+#   institution_short = "Cambridge"
+#   year = 2007
+#   logo = "/logo/icon_Ca.png"
 
 [[education.courses]]
-  course = "MSc in Physics"
-  course_short = "MSc"
-  institution = "Durham University / IPPP"
-  institution_short = "Durham/IPPP"
-  year = 2008
-  logo = "/logo/icon_D.png"
-
-[[education.courses]]
-  course = "MASt in Mathematics"
-  course_short = "MASt"
-  institution = "Cambridge University"
-  institution_short = "Cambridge"
-  year = 2007
-  logo = "/logo/icon_Ca.png"
-
-[[education.courses]]
-  course = "BS in Physics & Mathematics"
+  course = "BS in Biotechnology"
   course_short = "BS"
-  institution = "Stanford University"
-  institution_short = "Stanford"
-  year = 2008
-  logo = "/logo/icon_S.png"
+  institution = "University of Brasilia"
+  institution_short = "UnB"
+  year = "2019 - Present"
+  logo = "/logo/unb_logo.jpg"
 
 
 # List your academic interests.
 [service]
   service = [
-    "Open House Committee (chair)",
-    "Website Committee (chair)",
-    "Graduate Diversity Committee",
-    "[Graduate Student Mentor](https://gradmentors.ucr.edu)",
-    "[Reviewer](https://publons.com/author/637273/)"
+    "[university's self-assessment committee](http://www.cpa.unb.br/index.php?option=com_content&view=article&id=431&Itemid=301) ([member](http://www.cpa.unb.br/index.php?option=com_content&view=article&id=432&Itemid=254))"
   ]
 
 +++
 
-**Flip Tanedo** is an assistant professor of theoretical physics at the University of California, Riverside. His research seeks to discover how dark matter fits into our fundamental understanding of nature.
+**Matheus Cardoso** is an biotechnolgy student at the University of Brasilia, Federal District, Brazil. He currently internships in the bioinformatics laboratory of the university's cell biology department. His research seeks to develop software that analyzes phage display libraries and returns, as a result, the most efficiently enriched antibodies, thus providing tools for future research in vaccine development.
 
-* UCI Chancellor's Advance Postdoctoral Fellow, 2014 - 2015
+<!-- * UCI Chancellor's Advance Postdoctoral Fellow, 2014 - 2015
 * Paul & Daisy Soros Fellowship, 2010 - 2012
 * NSF Graduate Research Fellow, 2006 - 2011
-* Marshall Scholarship, 2006 - 2008
+* Marshall Scholarship, 2006 - 2008 -->

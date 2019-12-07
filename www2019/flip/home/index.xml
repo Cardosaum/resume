@@ -1,102 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Flip Tanedo </title>
-    <link>https://theory.ucr.edu/flip/home/</link>
-    <description>Recent content in Homes on Flip Tanedo </description>
+    <title>Homes on Matheus</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Matheus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Philip (Flip) Tanedo&lt;br/&gt;Hosted on [GitHub](https://github.com/fliptanedo/theory.ucr.edu), Served by [Netlify](https://ucrtheory.netlify.com).</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <copyright>&amp;copy; 2019 Matheus Cardoso&lt;br/&gt;Hosted on [GitHub](https://github.com/cardosaum).</copyright>
+    <lastBuildDate>Sat, 14 Oct 2017 23:00:00 -0300</lastBuildDate>
     
-	<atom:link href="https://theory.ucr.edu/flip/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://theory.ucr.edu/flip/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      <link>/home/hero_carousel/</link>
+      <pubDate>Sat, 14 Oct 2017 23:00:00 -0300</pubDate>
       
-      <guid>https://theory.ucr.edu/flip/home/hero_carousel/</guid>
+      <guid>/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dark Matter</title>
-      <link>https://theory.ucr.edu/flip/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      <link>/home/hero/</link>
+      <pubDate>Sat, 14 Oct 2017 23:00:00 -0300</pubDate>
       
-      <guid>https://theory.ucr.edu/flip/home/hero/</guid>
+      <guid>/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://theory.ucr.edu/flip/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://theory.ucr.edu/flip/home/about/</guid>
-      <description>Flip Tanedo spends a lot of time thinking about dark matter.
+      <guid>/home/about/</guid>
+      <description>Matheus Cardoso spends a lot of time thinking about dark matter.
 He grew up in Los Angeles and fell in love with physics after reading The Physics of Star Trek. This carried into degrees in mathematics and physics at Stanford, Cambridge, Durham, and a Ph.D at Cornell. After a postdoc at UC Irvine, he is currently faculty at UC Riverside where he is known for being covered in chalk dust after a long day&amp;rsquo;s work.</description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>https://theory.ucr.edu/flip/home/cv/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <link>/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://theory.ucr.edu/flip/home/cv/</guid>
-      <description>Flip Tanedo is an assistant professor of theoretical physics at the University of California, Riverside. His research seeks to discover how dark matter fits into our fundamental understanding of nature.
- UCI Chancellor&amp;rsquo;s Advance Postdoctoral Fellow, 2014 - 2015
- Paul &amp;amp; Daisy Soros Fellowship, 2010 - 2012
- NSF Graduate Research Fellow, 2006 - 2011
- Marshall Scholarship, 2006 - 2008  </description>
+      <guid>/home/cv/</guid>
+      <description>Matheus Cardoso is an biotechnolgy student at the University of Brasilia, Federal District, Brazil. He currently internships in the bioinformatics laboratory of the university&amp;rsquo;s cell biology department. His research seeks to develop software that analyzes phage display libraries and returns, as a result, the most efficiently enriched antibodies, thus providing tools for future research in vaccine development.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://theory.ucr.edu/flip/home/research/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <link>/home/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://theory.ucr.edu/flip/home/research/</guid>
-      <description>A goal of dark matter phenomenology is to translate the results of experimental searches into numerical values of our theories of new physics. My primary interest is to develop novel theories of dark matter that can push beyond the limits of our present phenomenological lamp post with unique experimental opportunities.</description>
+      <guid>/home/research/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://theory.ucr.edu/flip/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://theory.ucr.edu/flip/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public</title>
-      <link>https://theory.ucr.edu/flip/home/engagement/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <link>/home/engagement/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://theory.ucr.edu/flip/home/engagement/</guid>
+      <guid>/home/engagement/</guid>
       <description> Tweets by Flip Tanedo   Appearances  UCR Magazine 11/21/2018 Science Friday [SciFri Bio] 06/08/2018 Interview with Space.com 05/30/18 NOVA Wonders 04/04/18 Panel Discussion at Harvey Mudd 04/30/2018 Generation: First [pdf] UCR Magazine, Win. 2018 (Vol 13, No. 1) Science News, 2013  </description>
     </item>
     
     <item>
       <title>Team</title>
-      <link>https://theory.ucr.edu/flip/home/students/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <link>/home/students/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://theory.ucr.edu/flip/home/students/</guid>
+      <guid>/home/students/</guid>
       <description>Prospective graduate students should review these lectures.
 I am currently not taking new PhD students, but welcome inquiries about joining the UCR Particle Theory Group. We are committed to inclusion and I especially encourage women and under-represented minorities to consider our group.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://theory.ucr.edu/flip/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://theory.ucr.edu/flip/home/contact/</guid>
-      <description>Availability  </description>
+      <guid>/home/contact/</guid>
+      <description>Availability  -- </description>
     </item>
     
   </channel>
